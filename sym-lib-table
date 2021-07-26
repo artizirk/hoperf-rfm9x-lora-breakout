@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name hoperf-rfm9x-lora-breakout-eagle-import)(type Legacy)(uri ${KIPRJMOD}/hoperf-rfm9x-lora-breakout-eagle-import.lib)(options "")(descr ""))
+)
